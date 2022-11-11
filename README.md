@@ -4,11 +4,11 @@ React WebApp CI/CD GitHub repo size GitHub
 Allow to open chat on WhatsApp without saving contact number.
 
 # Deployed App
-App is live on github-pages and is available at https://yashchaudhari008.github.io/unsaved-contact-to-whatsapp-chat/.
+App is live on github-pages and is available at https://github.com/SunilMatkar/doChat.github.io.git
 
 
 #Runnning Locally
-git clone https://github.com/yashchaudhari008/unsaved-contact-to-whatsapp-chat.git
+git clone https://github.com/SunilMatkar/doChat.github.io.git
 npm install
 npm start
 
