@@ -1,5 +1,5 @@
 # doChat.github.io
-React WebApp CI/CD GitHub repo size GitHub
+React WebApp CI/CD GitHub 
 
 Allow to open chat on WhatsApp without saving contact number.
 
