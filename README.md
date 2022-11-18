@@ -4,7 +4,7 @@ React WebApp CI/CD GitHub
 Allow to open chat on WhatsApp without saving contact number.
 
 # Deployed App
-App is live on github-pages and is available at https://sunilmatkar.github.io/doChat.github.io/
+App is live on github-pages and is available at https://dochat1.herokuapp.com/
 
 #Runnning Locally
 git clone https://github.com/SunilMatkar/doChat.github.io.git
